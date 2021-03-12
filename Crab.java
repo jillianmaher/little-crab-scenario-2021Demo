@@ -11,7 +11,7 @@ public class Crab extends Actor
         {
             turn(17);
         }
-        move();
+        move();      
     }
     
     public void move( )
@@ -19,5 +19,7 @@ public class Crab extends Actor
         move(5);
     }
 }
+
+
 
 
